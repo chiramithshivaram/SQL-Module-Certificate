@@ -7,5 +7,5 @@
    - Gained understanding of database design and management concepts
    - Strengthened skills in data handling and reporting through practical tasks.
   
-2. Screenshot[Certificate]{}
+2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/SQL-Module-Certificate/blob/main/SQL%20Module%20Certificate.pdf](https://github.com/chiramithshivaram/SQL-Module-Certificate/blob/main/SQL%20Module%20Certificate.pdf)}
   
